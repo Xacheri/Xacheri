@@ -10,7 +10,7 @@ I am a CIS student at OTC in Springfield, MO <br>
 <br>
 
 There are a few ways to reach me: <br>
-  - Email: xacheria9@gmail.com
+  - Email: xacheri@outlook.com
   - Discord: Xacheri#5764
   - School Email: zs0977785@otc.edu
 
