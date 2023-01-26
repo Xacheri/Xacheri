@@ -8,7 +8,7 @@ I am a CIS student at OTC in Springfield, MO <br>
 <br>
 <br>
 <br>
-I blog my code at <a href="https://xacheri.tumblr.com">xacheri.tumblr.com</a>
+I blog my code at <a href="https://xacheri.tumblr.com">xacheri.tumblr.com</a> <br>
 There are a few ways to reach me: <br>
   - Email: xacheri@outlook.com
   - Discord: Xacheri#5764
