@@ -2,8 +2,8 @@ My Name is Zach Smith <br>
 I am a CIS student at OTC in Springfield, MO <br>
 
 - 👀 I’m interested in Web Development and Desktop App development
-- 📔 I have experience using HTML/CSS.
-- 🌱 I’m currently learning Bootstrap, C#, AWS, git, and TFS.
+- 📔 I have experience using HTML/CSS, Bootstrap 5, and C#. (Source controls: git, TFS)
+- 🌱 I’m currently learning Javascript, C#, and Computer Architecture.
 - 💞️ I’m looking to collaborate on local (Springfield Area) projects
 <br>
 <br>
