@@ -10,9 +10,9 @@ I am a CIS student at OTC in Springfield, MO <br>
 <br>
 I blog my code at <a href="https://xacheri.tumblr.com">xacheri.tumblr.com</a> <br>
 There are a few ways to reach me: <br>
-  - Email: xacheri@outlook.com
-  - Discord: Xacheri#5764
-  - School Email: zs0977785@otc.edu
+  - Email: xacheri@outlook.com <br>
+  - Discord: Xacheri#5764 <br>
+  - School Email: zs0977785@otc.edu <br>
 
 <!---
 Xacheri/Xacheri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
