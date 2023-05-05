@@ -1,9 +1,9 @@
 My Name is Zach Smith <br>
-I am a CIS student at OTC in Springfield, MO <br>
+I am a Web Development Specialist working for Ozarks Technical Community College in Springfield, MO <br>
 
-- 👀 I’m interested in Web Development and Desktop App development
-- 📔 I have experience using HTML/CSS, Bootstrap 5, and C#. (Source controls: git, TFS)
-- 🌱 I’m currently learning Javascript, C#, and Computer Architecture.
+- 👀 I’m interested in Web Development and Embedded Systems
+- 📔 I have experience using HTML/CSS/JS, Vue.js, Wordpress CMS, PHP, MySQL, C#, and ARM Assembly
+- 🌱 I’m currently learning Node.js, SASS, and Circuits and Electronics.
 - 💞️ I’m looking to collaborate on local (Springfield Area) projects
 <br>
 <br>
@@ -12,7 +12,7 @@ I blog my code at <a href="https://xacheri.tumblr.com">xacheri.tumblr.com</a> <b
 There are a few ways to reach me: <br>
   - Email: xacheri@outlook.com <br>
   - Discord: Xacheri#5764 <br>
-  - School Email: zs0977785@otc.edu <br>
+  - Work Email: smithz@otc.edu <br>
 
 <!---
 Xacheri/Xacheri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
