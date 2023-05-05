@@ -3,7 +3,7 @@ I am a Web Development Specialist working for Ozarks Technical Community College
 
 - 👀 I’m interested in Web Development and Embedded Systems
 - 📔 I have experience using HTML/CSS/JS, Vue.js, Wordpress CMS, PHP, MySQL, C#, and ARM Assembly
-- 🌱 I’m currently learning Node.js, SASS, and Circuits and Electronics.
+- 🌱 I’m currently learning Node.js, C language, and Circuits and Electronics.
 - 💞️ I’m looking to collaborate on local (Springfield Area) projects
 <br>
 <br>
