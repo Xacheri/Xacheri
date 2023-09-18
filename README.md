@@ -2,8 +2,8 @@ My Name is Zach Smith <br>
 I am a Web Development Specialist working for Ozarks Technical Community College in Springfield, MO <br>
 
 - 👀 I’m interested in Web Development and Embedded Systems
-- 📔 I have experience using HTML/CSS/JS, Vue.js, Wordpress CMS, PHP, MySQL, C#, and ARM Assembly
-- 🌱 I’m currently learning C language, and Circuits and Electronics.
+- 📔 I have experience using HTML/CSS/JS, Vue.js, Wordpress CMS, PHP, MySQL, C#, Java, and ARM Assembly
+- 🌱 I’m currently learning MVC architecture and C language
 - 💞️ I’m looking to collaborate on local (Springfield Area) projects
 <br>
 <br>
