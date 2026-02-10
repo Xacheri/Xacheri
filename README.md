@@ -1,4 +1,4 @@
-My Name is Zach Smith <br>
+My Name is Eliza Smith <br>
 I am a Junior Software Developer at CNH Reman in Springfield, MO <br>
 
 - 👀 I’m interested in Linux operating systems and application security.
@@ -10,10 +10,9 @@ I am a Junior Software Developer at CNH Reman in Springfield, MO <br>
 <br>
 <br>
 There are a few ways to reach me: <br>
-  - LinkedIn: https://www.linkedin.com/in/zachery-smith-2531a825a/ <br>
   - Email: xacheri@outlook.com <br>
   - Discord: Xacheri <br>
-  - Work Email: zsmith@cnhreman.com <br>
+  - Work Email: esmith@cnhreman.com <br>
 
 <!---
 Xacheri/Xacheri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
